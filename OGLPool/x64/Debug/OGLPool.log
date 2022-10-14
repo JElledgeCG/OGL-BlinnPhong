@@ -1,0 +1,21 @@
+﻿  glad.c
+  OGLPool.cpp
+C:\Users\Jleee\Documents\Projects\OGLPool\include\JLE\Mesh.h(104,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Jleee\Documents\Projects\OGLPool\include\JLE\Model.h(63,35): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jleee\Documents\Projects\OGLPool\OGLPool\OGLPool.cpp(109,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jleee\Documents\Projects\OGLPool\OGLPool\OGLPool.cpp(110,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  stb_image.cpp
+  Generating Code...
+  OGLPool.vcxproj -> C:\Users\Jleee\Documents\Projects\OGLPool\x64\Debug\OGLPool.exe
